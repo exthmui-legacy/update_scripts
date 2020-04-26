@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "name": "{os_name} Updater tester",
+      "device": "judyln",
+      "packagetype": "ota",
+      "requirement": 0,
+      "incr": "ztesta1234",
+      "changelog": "VGVzdFVwZGF0ZQ==",
+      "timestamp": 1578015637,
+      "filename": "exthm-ota-judyln.zip",
+      "sha1": "eb7102deefb4db46161d6254f520b2172bd6917b",
+      "romtype": "snapshot",
+      "size": 749586693,
+      "url": "https://complie.wdnmd.center:10000/filemin/download.cgi?file=exthm%5Fjudyln%2Dota%2Deng%2Ekira%2Drumia%40wdnmd%2Ecenter%2Ezip&path=%2Fhome%2Fkira%2Drumia%40wdnmd%2Ecenter%2Fexthmui%2Fexthm%2D10%2Fout%2Ftarget%2Fproduct%2Fjudyln%2F",
+      "imageurl": "https://avatars2.githubusercontent.com/u/53985366?s=200&v=4",
+      "version": "10.1"
+    }
+  ]
+}
