@@ -3,8 +3,9 @@
     {
       "name": "{os_name} Updater tester",
       "device": "judyln",
+      "requirement": 0,
       "packagetype": "full",
-      "incr": "judyln100", 
+      "incr": "eng.reimu.20200426.124951", 
       "changelog": "VGVzdFVwZGF0ZQ==",
       "timestamp": 992741474,
       "filename": "exthm-ota-judyln.zip",
