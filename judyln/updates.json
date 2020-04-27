@@ -5,7 +5,7 @@
       "device": "judyln",
       "requirement": 0,
       "packagetype": "full",
-      "incr": "eng.kira-rumia.20200430.042516", 
+      "incr": "eng.rumia.20200430.042516", 
       "changelog": "VGVzdFVwZGF0ZQ==",
       "timestamp": 1588191916,
       "filename": "exthm-ota-judyln.zip",
@@ -14,7 +14,7 @@
       "size": 749586693,
       "url" :"https://synology.wdnmd.center:5001/d/f/webapi/entry.cgi/exthm_judyln-ota-eng.kira-rumia.zip?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A550769323545763872%22%5D&force_download=true&json_error=true&_dc=1588003414974",
       "imageurl": "https://avatars2.githubusercontent.com/u/53985366?s=200&v=4",
-      "version": "10.1"
+      "version": "10.0"
     }
   ]
 }
