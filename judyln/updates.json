@@ -4,6 +4,7 @@
       "name": "{os_name} Updater tester",
       "device": "judyln",
       "packagetype": "full",
+      "incr": "1", 
       "changelog": "VGVzdFVwZGF0ZQ==",
       "timestamp": 482741474,
       "filename": "exthm-ota-judyln.zip",
