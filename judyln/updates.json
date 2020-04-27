@@ -1,7 +1,7 @@
 {
   "response": [
     {
-      "name": "{os_name} Updater tester",
+      "name": "{os_name} 推送测试",
       "device": "judyln",
       "requirement": 0,
       "packagetype": "full",
