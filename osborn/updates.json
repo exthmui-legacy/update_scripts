@@ -1,18 +1,18 @@
 {
   "response": [
     {
-      "name": "{os_name} 1.0",
+      "name": "{os_name} 1.0.1",
       "device": "osborn",
       "requirement": 0,
       "packagetype": "full",
-      "incr": "userdebug.build.20200618.002803",
-      "changelog": "56ys5LiA54mI5pys5rWL6K+V",
+      "incr": "userdebug.build.20200619.001849",
+      "changelog": "56ys5LiA54mIU05BUFNIT1Q=",
       "timestamp": 1592497683,
-      "filename": "exthm-10.0.0-osborn-1.0.zip",
-      "sha1": "78457589773d23f6880ffca60798696a6444363a",
-      "romtype": "RELEASE",
-      "size": 707484931,
-      "url": "https://dl.hiper25.com/show/1/osborn/exTHmUI/exthm-10.0.0-osborn-1.0.zip",
+      "filename": "exthm-10.0-20200619-OFFICIAL-SNAPSHOT-osborn.zip",
+      "sha1": "61103ef6cc8eda0ebe637b26e7a6ecdebddbf11b",
+      "romtype": "SNAPSHOT",
+      "size": 702813664,
+      "url": "https://dl.hiper25.com/show/1/osborn/exTHmUI/exthm-10.0-20200619-OFFICIAL-SNAPSHOT-osborn.zip",
       "imageurl": "https://avatars2.githubusercontent.com/u/53985366?s=200&v=4",
       "version": "10.0"
     }
