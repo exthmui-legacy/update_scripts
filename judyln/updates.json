@@ -5,16 +5,15 @@
       "device": "judyln",
       "requirement": 0,
       "packagetype": "full",
-      "incr": "eng.kira-r.20200623.054206", 
       "changelog": "VGVzdFVwZGF0ZQ==",
-      "timestamp": 1592876600,
+      "timestamp": 1599663901,
       "filename": "exthm-ota-judyln.zip",
-      "sha1": "3dce81cba8c195b2af39a36e7d53625c02e258b9",
+      "sha1": "0ee197f07f3741e835407fe4088b3bafa3267649",
       "romtype": "SNAPSHOT",
-      "size": 752016877,
-      "url" :"https://synology.wdnmd.center:5001/d/f/webapi/entry.cgi/SYNO.SynologyDrive.Files/exthm_judyln-ota-eng.kira-rumia.zip?api=SYNO.SynologyDrive.Files&method=download&version=1&files=%5B%22id%3A550932986237853734%22%5D&force_download=true",
+      "size": 768785684,
+      "url" :"https://cloud.touhou-project.org:5001/fsdownload/webapi/file_download.cgi/exthm-10.0-20200909-UNOFFICIAL-SNAPSHOT-judyln.zip?dlink=%222f657874686d554920524f4d2f657874686d2d31302e302d32303230303930392d554e4f4646494349414c2d534e415053484f542d6a7564796c6e2e7a6970%22&noCache=1599751087537&_sharing_id=%22aZfQeNOyG%22&api=SYNO.FolderSharing.Download&version=2&method=download&mode=download&stdhtml=false",
       "imageurl": "https://avatars2.githubusercontent.com/u/53985366?s=200&v=4",
-      "version": "10.1"
+      "version": "10.0"
     }
   ]
 }
