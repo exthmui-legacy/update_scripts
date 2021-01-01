@@ -1,0 +1,21 @@
+{
+    "response": [
+      {
+        "version_name": "exTHmUI 10", 
+        "android_version": "10",
+        "exthm_version": "10.0",
+        "device": "h930", 
+        "requirement": 1, 
+        "package_type": "full",
+        "change_log": "VGVzdFVwZGF0ZQ==", 
+        "timestamp": 1619663901, 
+        "file_name": "exthm-ota-judyln.zip", 
+        "sha1": "0ee197f07f3741e835407fe4088b3bafa3267649", 
+        "rom_type": "SNAPSHOT", 
+        "size": 768785684, 
+        "url" :"https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200825093256/PDYM20_11_OTA_0070_all_MkcZ3qgWHEka.ozip", 
+        "maintainer": "Col_or"
+      }
+    ]
+  }
+  
